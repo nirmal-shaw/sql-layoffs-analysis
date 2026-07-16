@@ -1,2 +1,1 @@
-# sql-layoffs-analysis
-Data cleaning and exploratory analysis of global layoffs dataset using MySQL
+![SQL Analysis Preview](Sql_Project_Preview.png)
